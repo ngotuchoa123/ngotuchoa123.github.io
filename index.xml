@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hoa Ngo Blog</title>
+    <link>http://ngotuchoa123.github.io/</link>
+    <description>Recent content on Hoa Ngo Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 May 2022 12:06:04 +0700</lastBuildDate>
+    
+        <atom:link href="http://ngotuchoa123.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>http://ngotuchoa123.github.io/post/</link>
+      <pubDate>Mon, 02 May 2022 12:06:04 +0700</pubDate>
+      
+      <guid>http://ngotuchoa123.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
